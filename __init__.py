@@ -1,0 +1,5 @@
+print("=" * 200)
+print("Password Generator")
+print("By desvasicek (https://github.com/devasicek)")
+print("\nGo to https://github.com/password_generator for more information\n")
+print("=" * 200)
